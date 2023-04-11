@@ -7,6 +7,8 @@
 body{
     background-color: #84E1AD;
     text-align: center;
+    margin: auto;
+    margin-top: auto;
 }
 
 header{
@@ -30,6 +32,10 @@ h2{
     text-align: center;
 }
 
+h4{
+    margin-bottom: 0%;
+}
+
 main{
     background-color: white;
     box-shadow: 5px 5px 20px #ffffff95;
@@ -42,7 +48,8 @@ main{
 
 footer{
     background-color: #1A5C38;
-    box-shadow: 5px 5px 10px rgb(77, 77, 77);
+    height: 30px;
+    text-align: center;
 }
 img{
     display: block;
